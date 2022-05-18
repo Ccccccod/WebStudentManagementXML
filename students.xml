@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student id="1">
+        <name>Trần Hòa</name>
+        <dob>1999-1-1</dob>
+        <address>Hoa Binh</address>
+        <email>hoathe130001@fpt.edu.vn</email>
+        <phone>0123456789</phone>
+    </student>
+    <student id="2">
+        <name>Trần Hòa 2</name>
+        <dob>1999-2-2</dob>
+        <address>Hoa Binh</address>
+        <email>hoathe130002@fpt.edu.vn</email>
+        <phone>0123456789</phone>
+    </student>
+</students>
